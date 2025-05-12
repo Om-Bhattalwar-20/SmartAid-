@@ -11,6 +11,11 @@ SmartAid is an innovative emergency response platform built to reduce response t
 📊 Predictive Data Analytics – Analyze trends to identify high-risk zones and peak emergency times.
 
 
+
+🏆 Award-Winning Project: Our team secured 2nd place at the GenAI Exchange Hackathon by Google with this solution!
+
+
+
 🔗 Live Demo: https://smartaid-gamma.vercel.app
 
 
