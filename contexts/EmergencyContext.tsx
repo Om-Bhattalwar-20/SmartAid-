@@ -9,6 +9,7 @@ export interface Emergency {
   type: EmergencyType;
   latitude: number;
   longitude: number;
+  
   location: string;
   description: string;
   status: "pending" | "assigned" | "in_progress" | "resolved";
